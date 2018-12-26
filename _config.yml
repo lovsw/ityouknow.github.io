@@ -21,7 +21,7 @@ cnblog_url: http://www.cnblogs.com/ityouknow
 url: https://wyq198.github.io
 enforce_ssl: wyq198.com
 
-theme: Yummy Jekyll
+
 ## Gem
 plugins:
   - jekyll-paginate
@@ -184,3 +184,5 @@ gitalk:
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
+
+theme: Yummy Jekyll
