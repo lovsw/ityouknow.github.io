@@ -21,6 +21,7 @@ cnblog_url: http://www.cnblogs.com/ityouknow
 url: https://wyq198.github.io
 enforce_ssl: wyq198.com
 
+theme:  Yummy Jekyll
 ## Gem
 plugins:
   - jekyll-paginate
