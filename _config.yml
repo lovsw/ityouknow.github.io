@@ -19,7 +19,7 @@ repository: wyq198/wyq198.github.io
 github_url: https://github.com/wyq198
 cnblog_url: http://www.cnblogs.com/ityouknow
 url: https://wyq198.github.io
-enforce_ssl: ityouknow.com
+enforce_ssl: wyq198.com
 
 ## Gem
 plugins:
